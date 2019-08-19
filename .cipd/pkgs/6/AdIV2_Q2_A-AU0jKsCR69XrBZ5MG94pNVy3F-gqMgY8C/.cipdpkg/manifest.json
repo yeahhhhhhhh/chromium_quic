@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "skia/tools/goldctl/linux-amd64",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "goldctl",
+      "size": 21091061,
+      "executable": true,
+      "hash": "MlW6msS8_f75bayu3tvaWm_ytqKXyYscTqPsIFyltGQC"
+    }
+  ]
+}
