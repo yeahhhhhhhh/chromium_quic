@@ -1,0 +1,23 @@
+<style>
+  :host {
+    display: block;
+    padding: 16px;
+    width: fit-content;
+  }
+
+  #tabsContainer {
+    display: flex;
+    width: fit-content;
+  }
+
+  tabstrip-tab {
+    flex-shrink: 0;
+    margin-inline-end: 16px;
+  }
+
+  tabstrip-tab:last-child {
+    margin-inline-end: 0;
+  }
+</style>
+
+<div id="tabsContainer"></div>
