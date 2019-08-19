@@ -1,0 +1,3 @@
+dawn_native/opengl/OpenGLFunctionsBase_autogen.cpp
+dawn_native/opengl/OpenGLFunctionsBase_autogen.h
+dawn_native/opengl/opengl_platform_autogen.h
